@@ -37,8 +37,6 @@ depending on availability, ensuring continuous energy generation.
 </p>
 <p>
 🎥 <a href="https://youtu.be/lBZy8O72uSw?si=eh4NS8mpceSIrVBp" target="_blank">Watch E Gen V.1 on YouTube</a>
-</p>
-<img src="images/E-Gen.jpg" alt="E Gen V.1" width="600"/>
 <p>
 <b>Relevant SDGs:</b> SDG 7 – Affordable and Clean Energy, SDG 9 – Industry, Innovation and Infrastructure, SDG 13 – Climate Action
 </p>
