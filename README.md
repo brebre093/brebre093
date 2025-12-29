@@ -21,7 +21,6 @@ using controlled electronic automation.
 <p>
 🎥 <a href="https://youtu.be/xxgfeovlke0?si=as43c-20cM_N265g" target="_blank">Watch the project video on YouTube</a>
 </p>
-<img src="images/Solar Dryer.jpg" alt="Solar Dryer" width="600"/>
 <p>
 <b>Relevant SDGs:</b> SDG 2 – Zero Hunger, SDG 7 – Affordable and Clean Energy, SDG 12 – Responsible Consumption and Production, SDG 13 – Climate Action
 </p>
